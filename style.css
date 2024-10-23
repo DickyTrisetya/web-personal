@@ -24,7 +24,7 @@ body{
 
 header{
     margin-top: 20px;
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
@@ -235,7 +235,7 @@ span{
         content: "Milf Lovers";
     }
     61%, 80%{
-        content: "Yuna Itzy Husband";
+        content: "Yuna Itzy BF";
     }
     81%, 100%{
         content: "Winter Aespa BF";
